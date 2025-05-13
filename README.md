@@ -1,3 +1,3 @@
-# smit-ip-cours
+# smit-ip-course
 
 e

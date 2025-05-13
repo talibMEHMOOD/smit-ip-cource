@@ -1,1 +1,3 @@
-# smit-ip-cource
+# smit-ip-cours
+
+e
